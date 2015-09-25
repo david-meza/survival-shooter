@@ -4,6 +4,7 @@ using System.Collections;
 
 public class ScoreManager : MonoBehaviour
 {
+	// A static variable doesn't belong to an instance of the class, but it's a class variable
     public static int score;
 
 
