@@ -17,3 +17,31 @@ Cmd: compileSnippet
   api=0 type=0 insize=1420 outsize=1195 kw= pd= ok=1
 Cmd: compileSnippet
   api=0 type=1 insize=1420 outsize=6 kw= pd= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=934 outsize=6373 kw=POINT SHADOWS_OFF _NORMALMAP _SPECGLOSSMAP pd= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=934 outsize=6 kw=POINT SHADOWS_OFF _NORMALMAP _SPECGLOSSMAP pd= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=938 outsize=6131 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=938 outsize=6 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1934 outsize=3851 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1934 outsize=6 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=934 outsize=5935 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=934 outsize=6 kw=POINT SHADOWS_OFF pd= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=934 outsize=6324 kw=POINT SHADOWS_OFF _NORMALMAP pd= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=934 outsize=6 kw=POINT SHADOWS_OFF _NORMALMAP pd= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=938 outsize=6197 kw=POINT SHADOWS_OFF _ALPHABLEND_ON pd= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=938 outsize=6 kw=POINT SHADOWS_OFF _ALPHABLEND_ON pd= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=934 outsize=5999 kw=POINT SHADOWS_OFF _ALPHABLEND_ON pd= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=934 outsize=6 kw=POINT SHADOWS_OFF _ALPHABLEND_ON pd= ok=1
